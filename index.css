@@ -17,7 +17,7 @@ body{
    text-align: center;
    justify-content: center;
    animation: change 35s infinite  ease-in-out;
-    background-image: url(../raod1.jpg);
+    background-image: url(./raod1.jpg);
 }
 .content{
     position: absolute;
@@ -51,21 +51,21 @@ body{
 }
 @keyframes change{
     0%{
-        background-image: url(../t1.jpg);
+        background-image: url(./t1.jpg);
     }
     20%{
-        background-image: url(../t2.jpg);
+        background-image: url(./t2.jpg);
     }
     40%{
-        background-image: url(../t3.jpg);
+        background-image: url(./t3.jpg);
     }
     60%{
-        background-image: url(../t4.jpg);
+        background-image: url(./t4.jpg);
     }
     80%{
-        background-image: url(../t5.jpg);
+        background-image: url(./t5.jpg);
     }
     100%{
-        background-image: url(../t6.jpg);
+        background-image: url(./t6.jpg);
     }
 }
