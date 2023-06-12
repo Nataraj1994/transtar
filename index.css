@@ -16,7 +16,7 @@ body{
    background-size: cover;
    text-align: center;
    justify-content: center;
-   animation: change 35s infinite  ease-in-out;
+   animation: change 45s infinite  ease-in-out;
     background-image: url(./raod1.jpg);
 }
 .content{
